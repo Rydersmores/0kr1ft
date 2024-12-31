@@ -34,9 +34,9 @@ section {
     border-radius: 8px;
 }
 section {
-  background-color: #333; /* Grey color */
-  color: white; /* Text color */
-  padding: 20px;
-  border-radius: 8px; /* Optional: for rounded corners */
-}
+    padding: 20px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 8px;
+ }
 
