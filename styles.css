@@ -1,5 +1,8 @@
 /* styles.css */
 
+body {
+    background-image: url("Background.png");
+  }
 header {
     background-color: rgb(32, 10, 66);
     color: white;
