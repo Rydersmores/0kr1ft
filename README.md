@@ -1,3 +1,2 @@
-# This website will be used for downloads to my projects and stuff for school
-# Anyways here is my discord @Rydersmores 
+#Welcome to 0kr1ft's website! We have a growing game and project catalog. If you get in trouble with your school or anything like that i am not to blame. you chose to use the site.
 
